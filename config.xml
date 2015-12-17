@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.br.tutorpro"
         versionCode = "2007"
         version   = "2.6">
-    <name>Moodle Mobile</name>
+    <name>TutorPro</name>
 
     <description>
-        Moodle Mobile official app
+        Fundada em 2009, após uma divisão  de serviços prestados pela Cetax que até então atuava com treinamentos e consultoria a empresas desde 2007,  a Tutor Pro presta treinamentos voltados para a área da Tecnologia.
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="https://www.tutorpro.com.br" email="contato@cetax.com.br">
+		Paulo Sales
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
